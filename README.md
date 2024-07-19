@@ -32,8 +32,10 @@ That is, their frequency of letters are identical.
 
 Suppose we have a letter-counting array for cat.
 
+```
  a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
 [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+```
 
 This allows us to make a hash map, where the key will be the frequency,
 and the value will be a list of all the matching anagrams.
