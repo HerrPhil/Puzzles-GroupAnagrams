@@ -45,7 +45,6 @@ public class GroupAnagrams {
 
     public List<List<String>> solution() {
 
-
         char letterA = 'a';
 
         Map<String, List<String>> anagramMap = new HashMap<String, List<String>>();
