@@ -1,0 +1,14 @@
+Hello Group Anagrams Solution #1
+the group anagrams are
+List:
+Anagram: cat
+Anagram: tac
+List:
+Anagram: bat
+Anagram: tab
+List:
+Anagram: bag
+Anagram: gab
+List:
+Anagram: state
+Anagram: taste
